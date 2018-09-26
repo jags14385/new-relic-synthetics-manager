@@ -1,13 +1,12 @@
 {
-  "name": "new-relic-synthetics-manager",
-  "version": "2.0.0",
-  "description": "Manage New Relic Synthetics",
+  "name": "nrs-manager",
+  "version": "1.0.0",
+  "description": "Manage New Relic Synthetics based on Yoddle new relic symthetic manager",
   "main": "index.js",
   "scripts": {
     "test": "gulp",
     "lint": "gulp lint"
   },
-  "author": "David Bradford <david.bradford@yodle.com>",
   "license": "Apache-2.0",
   "bin": {
     "synthmanager": "bin/synthmanager.js"
@@ -36,6 +35,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yodle/new-relic-synthetics-manager.git"
+    "url": "https://github.com/jags14385/new-relic-synthetics-manager.git"
   }
 }

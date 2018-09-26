@@ -1,5 +1,7 @@
 # New Relic Synthetics Manager
 
+Updated the dependencies to resolve the secuity warnings
+Based on [Yodle New Relic Synthetics Mananger](https://github.com/yodle/new-relic-synthetics-manager)
 This project has two goals to improve working with [New Relic Synthetics](https://newrelic.com/synthetics):
 
 * Be able to run your New Relic Synthethics locally. This lets you do things like debugging.
